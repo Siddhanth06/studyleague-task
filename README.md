@@ -1,3 +1,10 @@
+
+![image](https://github.com/Siddhanth06/studyleague-task/assets/89792184/ae92a761-384b-4484-9d10-467ecd9fe6b9)
+![image](https://github.com/Siddhanth06/studyleague-task/assets/89792184/a94e866d-d4d9-4111-b14a-5beb4ccfea39)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
