@@ -24,7 +24,7 @@ class EmployeeController extends Controller
         $employees = Employee::all();
 
         //functions to promote employees to pool3
-        function promoteEmployeeToPool3($employee)
+        function pool3Promotion($employee)
         {
             $employee->update(['pool' => 'pool3']);
         }
@@ -37,7 +37,7 @@ class EmployeeController extends Controller
                 $userToPromote = Employee::where('pool', 'pool2')->orderBy('promotion_order')->first();
 
                 if ($userToPromote) {
-                    promoteEmployeeToPool3($userToPromote);
+                    pool3Promotion($userToPromote);
                 }
             }
         }
